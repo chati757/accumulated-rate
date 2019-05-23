@@ -1,2 +1,2 @@
-# accumulated-rate
-accumulated rate calculation
+# **Accumulated Rate**
+>accumulated rate calculation for profit
